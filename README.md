@@ -1,2 +1,3 @@
 # git_practise
-for git operation
+This is a repositories for git operation practise.
+
